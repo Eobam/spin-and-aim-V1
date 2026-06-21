@@ -1,0 +1,1 @@
+global.circlesprite = sprite_index

@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"objects","order":1,"path":"folders/objects.yy",},
+    {"name":"sprites","order":2,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oBullet","order":4,"path":"objects/oBullet/oBullet.yy",},
+    {"name":"oShooter","order":5,"path":"objects/oShooter/oShooter.yy",},
+    {"name":"oShooteraddblock","order":3,"path":"objects/oShooteraddblock/oShooteraddblock.yy",},
+    {"name":"oXPtext","order":1,"path":"objects/oXPtext/oXPtext.yy",},
+    {"name":"oXPtext2","order":2,"path":"objects/oXPtext2/oXPtext2.yy",},
+    {"name":"sBullet","order":3,"path":"sprites/sBullet/sBullet.yy",},
+    {"name":"sShooter","order":4,"path":"sprites/sShooter/sShooter.yy",},
+    {"name":"sShooteraddblock","order":2,"path":"sprites/sShooteraddblock/sShooteraddblock.yy",},
+    {"name":"sShooterOnPos1","order":1,"path":"sprites/sShooterOnPos1/sShooterOnPos1.yy",},
+  ],
+}
