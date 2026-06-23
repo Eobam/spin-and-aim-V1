@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oShooteraddblock",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oPlustenblock",
+  "eventList":[],
   "managed":true,
-  "name":"oShooteraddblock",
+  "name":"oPlustenblock",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sShooteraddblock",
-    "path":"sprites/sShooteraddblock/sShooteraddblock.yy",
+    "name":"sPlustenblock",
+    "path":"sprites/sPlustenblock/sPlustenblock.yy",
   },
   "spriteMaskId":null,
   "visible":true,

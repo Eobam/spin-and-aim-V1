@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oShooteraddblock",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oIal",
+  "eventList":[],
   "managed":true,
-  "name":"oShooteraddblock",
+  "name":"oIal",
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sShooteraddblock",
-    "path":"sprites/sShooteraddblock/sShooteraddblock.yy",
+    "name":"sIal",
+    "path":"sprites/sIal/sIal.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,0 +1,1 @@
+draw_text(0, 0, "Use A to spin left, and D to spin right. (try it out!" )
